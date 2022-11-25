@@ -20,12 +20,6 @@ this is my first website
 * [HTML5](https://github.com/topics/html5)
 * [CSS](https://github.com/topics/css3)
 * [Bootstrap](https://github.com/topics/bootstrap)
-* [jQuery](https://github.com/topics/javascript)
-* markdown
-
-## Known Bugs
-
-does not load some images
 
 ## Contact Information 
 
@@ -33,6 +27,6 @@ If you have any question or contributions, please email me at [glnkariuki@gmail.
 
 ## License
 * *MIT License:*
-* Copyright (c) 2021 **glen mboroki**
+* Copyright (c) 2022 **glen mboroki**
 
 
