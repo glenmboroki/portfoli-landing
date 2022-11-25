@@ -11,7 +11,7 @@ this is my first website
 ## Installation / Setup instruction
 * Open Terminal {Ctrl+Alt+T}
 
-* cd port-landing
+* cd portfoli-landing
 
 * code . or atom . depending on the text editor of your choise.
 
